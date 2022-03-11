@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,300&display=swap');
+
+body{
+    background-color: #659DBD;
+    font-family: Roboto;
+    color: yellow;
+}
+
+.hashForm{
+    border: 10px solid yellow;
+    margin: auto;
+    padding: 25px;
+    width: 85%;
+}
+
+.hashForm h1{
+    font-weight: 500;
+}
+
+.formElement {
+    display: inline;
+}
+
+#hashContainer p{
+    word-break: break-all;
+}
